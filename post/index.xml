@@ -6,7 +6,16 @@
     <description>Recent content in Posts on 米盐&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 18 Jun 2022 18:28:37 +0800</lastBuildDate><atom:link href="https://www.pltang.cn/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 21 Jun 2022 17:06:14 +0800</lastBuildDate><atom:link href="https://www.pltang.cn/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>https://www.pltang.cn/test/</link>
+      <pubDate>Tue, 21 Jun 2022 17:06:14 +0800</pubDate>
+      
+      <guid>https://www.pltang.cn/test/</guid>
+      <description>你好你好你</description>
+    </item>
+    
     <item>
       <title>测试文章</title>
       <link>https://www.pltang.cn/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</link>
@@ -17,12 +26,12 @@
     </item>
     
     <item>
-      <title></title>
-      <link>https://www.pltang.cn/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>测试文章2</title>
+      <link>https://www.pltang.cn/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A02/</link>
+      <pubDate>Sat, 18 Jun 2022 18:28:37 +0800</pubDate>
       
-      <guid>https://www.pltang.cn/</guid>
-      <description></description>
+      <guid>https://www.pltang.cn/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A02/</guid>
+      <description>第二篇文章进行测试</description>
     </item>
     
   </channel>

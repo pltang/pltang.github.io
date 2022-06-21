@@ -17,6 +17,15 @@
     </item>
     
     <item>
+      <title>Test</title>
+      <link>https://www.pltang.cn/test/</link>
+      <pubDate>Tue, 21 Jun 2022 17:06:14 +0800</pubDate>
+      
+      <guid>https://www.pltang.cn/test/</guid>
+      <description>目的: 如何将base64图片内嵌到markdown 文件中？ 软件: obsidian 语法: &amp;ldquo;![image][图片ID]&amp;rdquo; &amp;ldquo</description>
+    </item>
+    
+    <item>
       <title>测试文章</title>
       <link>https://www.pltang.cn/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</link>
       <pubDate>Sat, 18 Jun 2022 18:28:37 +0800</pubDate>

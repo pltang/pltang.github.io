@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>米盐&#39;s Blog</title>
+    <link>https://www.pltang.cn/</link>
+    <description>Recent content on 米盐&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 21 Jun 2022 17:06:14 +0800</lastBuildDate><atom:link href="https://www.pltang.cn/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>https://www.pltang.cn/test/</link>
+      <pubDate>Tue, 21 Jun 2022 17:06:14 +0800</pubDate>
+      
+      <guid>https://www.pltang.cn/test/</guid>
+      <description>目的: 如何将base64图片内嵌到markdown 文件中？ 软件: obsidian 语法: &amp;ldquo;![image][图片ID]&amp;rdquo; &amp;ldquo</description>
+    </item>
+    
+    <item>
+      <title>Test11</title>
+      <link>https://www.pltang.cn/test11/</link>
+      <pubDate>Tue, 21 Jun 2022 17:06:14 +0800</pubDate>
+      
+      <guid>https://www.pltang.cn/test11/</guid>
+      <description>你好你好你</description>
+    </item>
+    
+    <item>
+      <title>测试文章</title>
+      <link>https://www.pltang.cn/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</link>
+      <pubDate>Sat, 18 Jun 2022 18:28:37 +0800</pubDate>
+      
+      <guid>https://www.pltang.cn/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</guid>
+      <description>这是一篇测试文章, 《论语》与《孝经》都是汉初学习者必读之书，是汉人启蒙书的一种。自汉代以来，便有不少人注解《论语》。汉朝人所注《论语》，已亡</description>
+    </item>
+    
+    <item>
+      <title>测试文章2</title>
+      <link>https://www.pltang.cn/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A02/</link>
+      <pubDate>Sat, 18 Jun 2022 18:28:37 +0800</pubDate>
+      
+      <guid>https://www.pltang.cn/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A02/</guid>
+      <description>第二篇文章进行测试</description>
+    </item>
+    
+    
+  </channel>
+</rss>

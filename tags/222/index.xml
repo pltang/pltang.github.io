@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>222 on 米盐&#39;s Blog</title>
+    <link>https://www.pltang.cn/tags/222/</link>
+    <description>Recent content in 222 on 米盐&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 28 Jun 2022 07:17:12 +0800</lastBuildDate><atom:link href="https://www.pltang.cn/tags/222/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tst111</title>
+      <link>https://www.pltang.cn/posts/read/my-first-post/</link>
+      <pubDate>Tue, 28 Jun 2022 07:17:12 +0800</pubDate>
+      
+      <guid>https://www.pltang.cn/posts/read/my-first-post/</guid>
+      <description>h1 标题 h2 标题 h3 标题 h4 标题 h5 标题 h6 标题 水平线 文本样式 This is bold text This is bold text This is italic text This is italic text Strikethrough 列表 无序 Create a list by starting a line with +, -, or * Sub-lists are made by indenting 2 spaces: Marker character change forces new</description>
+    </item>
+    
+  </channel>
+</rss>

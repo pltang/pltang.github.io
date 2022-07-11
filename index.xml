@@ -5,62 +5,7 @@
     <link>https://www.pltang.cn/</link>
     <description>Recent content on 米盐&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language>
-    <lastBuildDate>Tue, 28 Jun 2022 07:17:12 +0800</lastBuildDate><atom:link href="https://www.pltang.cn/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Tst111</title>
-      <link>https://www.pltang.cn/posts/read/my-first-post/</link>
-      <pubDate>Tue, 28 Jun 2022 07:17:12 +0800</pubDate>
-      
-      <guid>https://www.pltang.cn/posts/read/my-first-post/</guid>
-      <description>h1 标题 h2 标题 h3 标题 h4 标题 h5 标题 h6 标题 水平线 文本样式 This is bold text This is bold text This is italic text This is italic text Strikethrough 列表 无序 Create a list by starting a line with +, -, or * Sub-lists are made by indenting 2 spaces: Marker character change forces new</description>
-    </item>
-    
-    <item>
-      <title>Tst111</title>
-      <link>https://www.pltang.cn/posts/read/tst111/</link>
-      <pubDate>Tue, 28 Jun 2022 07:17:12 +0800</pubDate>
-      
-      <guid>https://www.pltang.cn/posts/read/tst111/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Test2</title>
-      <link>https://www.pltang.cn/posts/read/test2/</link>
-      <pubDate>Mon, 27 Jun 2022 17:42:24 +0800</pubDate>
-      
-      <guid>https://www.pltang.cn/posts/read/test2/</guid>
-      <description>我的新文章~~~~ 啦啦~</description>
-    </item>
-    
-    <item>
-      <title>Test</title>
-      <link>https://www.pltang.cn/posts/read/test%E7%9A%84%E5%89%AF%E6%9C%AC/</link>
-      <pubDate>Tue, 21 Jun 2022 17:06:14 +0800</pubDate>
-      
-      <guid>https://www.pltang.cn/posts/read/test%E7%9A%84%E5%89%AF%E6%9C%AC/</guid>
-      <description>目的: 如何将base64图片内嵌到markdown 文件中？ 软件: obsidian 语法: &amp;ldquo;![image][图片ID]&amp;rdquo; &amp;ldquo</description>
-    </item>
-    
-    <item>
-      <title>Test11</title>
-      <link>https://www.pltang.cn/posts/read/test/</link>
-      <pubDate>Tue, 21 Jun 2022 17:06:14 +0800</pubDate>
-      
-      <guid>https://www.pltang.cn/posts/read/test/</guid>
-      <description>你好你好你</description>
-    </item>
-    
-    <item>
-      <title>测试文章2</title>
-      <link>https://www.pltang.cn/posts/read/my-send-post/</link>
-      <pubDate>Sat, 18 Jun 2022 18:28:37 +0800</pubDate>
-      
-      <guid>https://www.pltang.cn/posts/read/my-send-post/</guid>
-      <description></description>
-    </item>
-    
+    <language>zh-cn</language><atom:link href="https://www.pltang.cn/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>https://www.pltang.cn/about/</link>
@@ -68,15 +13,6 @@
       
       <guid>https://www.pltang.cn/about/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://www.pltang.cn/posts/read/test3/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.pltang.cn/posts/read/test3/</guid>
-      <description>w:</description>
     </item>
     
     

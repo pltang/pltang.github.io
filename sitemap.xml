@@ -65,6 +65,10 @@
     <loc>https://www.pltang.cn/about/</loc>
     <priority>0</priority>
   </url><url>
+    <loc>https://www.pltang.cn/posts/life/%E6%9C%AA%E5%91%BD%E5%90%8D-2/</loc>
+  </url><url>
+    <loc>https://www.pltang.cn/posts/life/%E6%9C%AA%E5%91%BD%E5%90%8D/</loc>
+  </url><url>
     <loc>https://www.pltang.cn/categories/</loc>
   </url><url>
     <loc>https://www.pltang.cn/series/</loc>
@@ -74,5 +78,7 @@
     <loc>https://www.pltang.cn/search/</loc>
   </url><url>
     <loc>https://www.pltang.cn/targs/</loc>
+  </url><url>
+    <loc>https://www.pltang.cn/posts/life/%E7%AC%94%E8%B0%83/</loc>
   </url>
 </urlset>
